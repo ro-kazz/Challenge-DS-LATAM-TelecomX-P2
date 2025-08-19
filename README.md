@@ -44,7 +44,7 @@
 **Tuning + Validación (sin fuga)**
 - Pipelines con **SMOTE/escala dentro de CV** (`StratifiedKFold` 5‑fold).  
 - Búsqueda de hiperparámetros (Grid/Random).  
-- **Diagnóstico 4.3**: comparar **F1 (CV)** vs **F1 (test)** para detectar **overfitting** / **underfitting**.
+- **Diagnóstico**: comparar **F1 (CV)** vs **F1 (test)** para detectar **overfitting** / **underfitting**.
 
 **Interpretación**
 - **LogReg**: coeficientes (signo/dirección).  
